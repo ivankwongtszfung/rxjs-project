@@ -1,0 +1,35 @@
+{
+  "name": "rxjs-project",
+  "version": "1.0.0",
+  "description": "This is a webapp using rxjs and webcomponent without any js framwork. Enjoy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivankwongtszfung/rxjs-project.git"
+  },
+  "keywords": [
+    "rxjs",
+    "promise",
+    "mongodb",
+    "web-component"
+  ],
+  "author": "Ivan Kwong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivankwongtszfung/rxjs-project/issues"
+  },
+  "homepage": "https://github.com/ivankwongtszfung/rxjs-project#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "rxjs": "^6.5.2"
+  }
+}
